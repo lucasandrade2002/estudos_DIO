@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+    font-family: sans-serif;
+    background-color: aquamarine;
+    margin: 0;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#wrapper{
+    width: 600px;
+    margin: auto;
+}
+
+#wrapper > h1{
+    text-align: center;
+    color: rgb(48, 48, 245);
+}
+
+#wrapper > p{
+    text-align: center;
+}
+
+#counter{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+#counter > input{
+    width: 30px;
+    height: 30px;
+    background-color: lightgray;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 2px solid blue;
+    border-radius: 50%;
+}

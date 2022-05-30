@@ -1,0 +1,14 @@
+Frameworks Javascript
+
+- VueJS
+- Angular
+- React
+- jQuery
+
+Vanila Javascript -> Javascript Puro.
+
+Sites que possuem conteúdo rico a respeito de Javascript:
+
+MDN web docs
+W3C
+Stackoverflow (Fórum onde vários desenvolvedores ajudam uns aos outros)

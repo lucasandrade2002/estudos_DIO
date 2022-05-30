@@ -1,0 +1,15 @@
+
+body{
+    font-family: sans-serif;
+}
+
+#resultado{
+    border: 1px solid black;
+    width: 150px;
+    min-height: 180px;
+}
+
+:checked + label{
+    text-decoration: line-through;
+    color: gray;
+}

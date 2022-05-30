@@ -1,0 +1,18 @@
+Introduction to JavaScript
+
+O que é o JavaScript?
+
+Linguagem Interpretada
+Baseado em prototipos
+Multiparadigma (Orientação a Objetos, Funcional, Estruturada)
+Comumente utilizada em aplicações web client-side
+Segue o padrão do ECMAscript (conjunto de normas do JavaScript)
+
+Aplicações JavaScript
+
+Web
+Mobile
+Smartwatches
+Games
+Iot
+APIs
